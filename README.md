@@ -54,7 +54,7 @@ dotnet build
 
 Clone the repository and build the project:
 ```bash
-git clone <repository-url>
+git clone https://github.com/simopisa/ExcelUnlocker.git
 cd ExcelUnlocker
 dotnet build
 ```
